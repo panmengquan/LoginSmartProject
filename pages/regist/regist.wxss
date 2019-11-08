@@ -1,0 +1,15 @@
+/* pages/regist/regist.wxss */
+@import "../login/login.wxss";
+
+.smsCode{
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #ddd;
+  
+}
+.smsCode .getSmsCodeBtn{
+  margin-top: 10rpx;
+  margin-bottom: 10rpx;
+  color: #fff;
+  margin-right: 10%;
+}
